@@ -1,0 +1,2 @@
+class PractiveController < ApplicationController
+end
