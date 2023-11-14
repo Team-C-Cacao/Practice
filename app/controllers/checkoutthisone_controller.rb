@@ -1,0 +1,2 @@
+class CheckoutthisoneController < ApplicationController
+end
