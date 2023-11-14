@@ -1,2 +1,0 @@
-class PractiveController < ApplicationController
-end
